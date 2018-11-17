@@ -1,9 +1,3 @@
-
-# Easy Carry
-Introduction
-
-Project Title
-
 # Easy Carry
 
 # REQUIREMENT ANALYSIS
